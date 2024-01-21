@@ -1,0 +1,5 @@
+If you setup environments using "fast installation", you can use modified docker-compose.yml
+
+If you setup environments using "detail installation", use script on docker-scripts.txt
+
+You can also see next lecture for step-by-step usage in text format.
